@@ -1,9 +1,10 @@
-yfinance
-numpy
-pandas
-matplotlib
 streamlit
+yfinance
+pandas
+numpy
+matplotlib
 scikit-learn
-tensorflow
-transformers
-torch
+tensorflow-cpu==2.12.0
+torch==2.0.1
+transformers==4.31.0
+
